@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/bin/Debug/netcoreapp2.1/GameConsole.deps.json
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/bin/Debug/netcoreapp2.1/GameConsole.runtimeconfig.json
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/bin/Debug/netcoreapp2.1/GameConsole.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/bin/Debug/netcoreapp2.1/GameConsole.dll
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/bin/Debug/netcoreapp2.1/GameConsole.pdb
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/obj/Debug/netcoreapp2.1/GameConsole.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/obj/Debug/netcoreapp2.1/GameConsole.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/obj/Debug/netcoreapp2.1/GameConsole.AssemblyInfo.cs
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/obj/Debug/netcoreapp2.1/GameConsole.dll
+/Users/mindaugaslazauskas/Projects/CSWorkingWithNulls/GameConsole/obj/Debug/netcoreapp2.1/GameConsole.pdb
